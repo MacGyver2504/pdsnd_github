@@ -2,7 +2,7 @@
 This project was created some time ago :)
 
 ### Project Title
-Bikeshare Analysis
+Bikeshare Analysis Project
 
 ### Description
 This projects analysis bikeshare data from 3 U.S. cities per Month and weekday.
