@@ -18,4 +18,4 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-This project is inspired by the Udacity Micro Degree "Programming for Data Science" and is part of the necessary project work.
+This project is part of the Udacity Micro Degree "Programming for Data Science".
