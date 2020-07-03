@@ -22,10 +22,7 @@ def get_filters():
         (str) raw_data - defines if the user wants to see raw data before statistics
     """
     print('Hello! Let\'s explore some US bikeshare data!')
-    city = ""
-    month = ""
-    day = ""
-    raw_data = ""
+    city = month = day = raw_data = ""
     
     while city.lower() not in CITY_DATA:#'c','n','w'):
         if city != "":
